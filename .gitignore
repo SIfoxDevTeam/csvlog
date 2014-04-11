@@ -1,0 +1,5 @@
+ebin
+.eunit
+.test
+erl_crash.dump
+log

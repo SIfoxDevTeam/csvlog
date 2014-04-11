@@ -1,0 +1,6 @@
+{application, csvlog, [
+    {description, "CSV Logger"},
+    {vsn, "1.0.0"},
+    {applications, [kernel, stdlib]},
+    {mod, {csvlog_app, []}}
+]}.
